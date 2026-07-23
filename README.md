@@ -4,7 +4,7 @@ Every serious AI system uses most of them.
 
 Knowing how to call an LLM API is table stakes now. What separates AI applications that hold up in production from ones that quietly degrade is the architecture around the model.
 
-![9 AI System Architecture Concepts](assets/ai-system-architecture-concepts.png)
+![9 AI System Architecture Concepts](<img width="800" height="800" alt="1784479394595" src="https://github.com/user-attachments/assets/f35f89ac-ab73-4340-8f0f-91fcb51e8849" />)
 
 ## 1️⃣ Vector Database
 
